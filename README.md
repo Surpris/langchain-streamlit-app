@@ -4,7 +4,24 @@ Web applications using Streamlit and LangChain. The contents of this repository 
 
 # Requirements
 
-See `Requirements` shown in the doc_string on the top of each script.
+* Python >= 3.8.1
+* modules: please see `requirements.txt`.
+
+If you want to know specific moduls required by each script, please see `Requirements` shown in the doc_string on the top of each script.
+
+# Installation
+
+You can clone/download this repository and test the scripts.
+
+## One method
+
+```sh
+pip install streamlit streamlit_chat \
+    openai langchain tiktoken \
+    beautifulsoup4 \
+    pytube youtube-transcript-api \
+    pypdf2 qdrant-client
+```
 
 # How to use
 
