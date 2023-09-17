@@ -1,6 +1,6 @@
 # langchain-streamlit-app
 
-Web applications using Streamlit and LangChain. The contents of this repository are based on the files in [naotaka1128/ai_app_book](https://github.com/naotaka1128/ai_app_book).
+Web applications using [Streamlit](https://streamlit.io/) and [LangChain](https://www.langchain.com/). The contents of this repository are based on the files in [naotaka1128/ai_app_book](https://github.com/naotaka1128/ai_app_book).
 
 # Requirements
 
