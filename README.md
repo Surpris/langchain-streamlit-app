@@ -15,20 +15,17 @@ You can clone/download this repository and test the scripts.
 
 ## One method
 
-```sh
-pip install streamlit streamlit_chat \
-    openai langchain tiktoken \
-    beautifulsoup4 \
-    pytube youtube-transcript-api \
-    pypdf2 qdrant-client
-```
-
-# How to use
-
-1. install necessary modules for each script.
-2. run the target script as follows:   
+1. clone this repository and move to the cloned directory:   
+    ```sh
+    git clone https://github.com/Surpris/langchain-streamlit-app.git ./langchain-streamlit-app && cd ./langchain-streamlit-app
+    ```
+2. install necessary modules for each script:   
+    ```sh
+    pip -r ./requirements.txt
+    ```
+3. run the target script:   
     ```python
-    streamlit run XX.py
+    streamlit run ./chapters/XX.py
     ```
 
 ## Configuration of streamlit
