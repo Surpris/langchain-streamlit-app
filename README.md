@@ -35,7 +35,7 @@ You can clone/download this repository and test the scripts.
 
 ## Remarks on using the scripts in this repository
 
-You have to set your OpenAI key somewhere, e.g., your envronmental PATH.
+You have to set your OpenAI key so that the `openai` module can find it. One way is to set it to your environmental PATH.
 
 For UNIX:
 
