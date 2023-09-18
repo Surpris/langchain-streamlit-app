@@ -28,6 +28,29 @@ You can clone/download this repository and test the scripts.
     streamlit run ./chapters/XX.py
     ```
 
+## Remarks on using the scripts in this repository
+
+You have to set your OpenAI key somewhere, e.g., your envronmental PATH.
+
+For UNIX:
+
+```sh
+export OPENAI_API_KEY=<your-openai-key>
+```
+
+For Windows:
+
+```sh
+set OPENAI_API_KEY=<your-openai-key>
+```
+
+Another way is to set your key to `openai.api_key`:
+
+```python
+import openai
+openai.api_key = '<your-openai-key>'
+```
+
 ## Configuration of streamlit
 
 You can set the configuration of streamlit in `.streamlit/config.toml`. Please check [the Official page](https://docs.streamlit.io/library/advanced-features/configuration) for more details.
