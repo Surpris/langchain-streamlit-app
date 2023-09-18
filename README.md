@@ -4,8 +4,7 @@ Web applications using [Streamlit](https://streamlit.io/) and [LangChain](https:
 
 # LICENSE
 
-* tests/cheat_sheet_examples.md: please see [KDnuggets: Terms of Service](https://www.kdnuggets.com/terms-of-service.html).
-* The other codes: Apache License, Version 2.0.
+[Apache License, Version 2.0](./LICENSE).
 
 # Requirements
 
