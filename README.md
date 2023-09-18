@@ -2,6 +2,11 @@
 
 Web applications using [Streamlit](https://streamlit.io/) and [LangChain](https://www.langchain.com/). The contents of this repository are based on the files in [naotaka1128/ai_app_book](https://github.com/naotaka1128/ai_app_book).
 
+# LICENSE
+
+* tests/cheat_sheet_examples.md: please see [KDnuggets: Terms of Service](https://www.kdnuggets.com/terms-of-service.html).
+* The other codes: Apache License, Version 2.0.
+
 # Requirements
 
 * Python >= 3.8.1
